@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-6osx12.indocuan.space/sitemap.xml
